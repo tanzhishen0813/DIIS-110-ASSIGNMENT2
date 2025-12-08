@@ -1,9 +1,5 @@
---- Game State Save File ---------------
-Name: jack
-Health: 100
-Score: 0
-Location: start_clearing
-Inventory: 
-Visited: start_clearing
-Difficulty: 1.5
---- End Save -------------------------
+certifi==2025.10.5
+charset-normalizer==3.4.4
+idna==3.11
+requests==2.32.5
+urllib3==2.5.0
